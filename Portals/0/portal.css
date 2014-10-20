@@ -1,0 +1,30 @@
+.dnnFixedSizeComboBox > table {
+    width: 100% !important;
+}
+
+    .dnnFixedSizeComboBox > table input.rcbInput {
+        width: 100%;
+        min-width: 100%;
+    }
+
+
+.k-grouping-header {
+    text-align: right;
+}
+
+.rcbItem.rcbTemplate {
+  margin: 3px 0;
+}
+
+.rcbItem.rcbTemplate > span {
+  display: inline-block;
+  width: 173px;
+  float:right;
+}
+
+.rcbItem.rcbTemplate > input {
+  max-width: 70px;
+  color:gray;
+  font-size:11px;
+}
+
